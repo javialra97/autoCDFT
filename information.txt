@@ -1,0 +1,2 @@
+       molecule A            molecule B           atoms A               atoms B        
+ 
